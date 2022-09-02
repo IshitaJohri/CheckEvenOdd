@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run evenorodd.py
+web: sh setup.sh && streamlit run main.py
